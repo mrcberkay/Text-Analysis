@@ -66,4 +66,4 @@ This project is useful, for instance, in comparing two texts and quickly identif
 **Confirm:** Click "Confirm" to start the comparison.  
 **Copy All:** Copies the results to your clipboard.  
   
-We are continuously working on improving this tool, and your feedback is valuable!
+If you are interested in improving this tool, feel free to reach out! You can also make changes for your personal use.
