@@ -26,7 +26,8 @@ This project is useful, for instance, in comparing two texts and quickly identif
 4. **Install Packages:** These packages are required for text processing, UI elements, and interacting with the OpenAI API. Install each using the following command (replace `X` with the package name):
    ```bash
    pip install X
-   * annotated-types   0.6.0
+   
+* annotated-types   0.6.0
 * anyio             4.2.0
 * certifi           2023.11.17
 * colorama          0.4.6
@@ -57,12 +58,12 @@ This project is useful, for instance, in comparing two texts and quickly identif
 
 5. **Run the Software:** Open main.py and click "Run Python File." The software UI will appear.
 
-**Using the Software**
-**First Text Box:** Add sentences one by one (click "Add") or paste a whole paragraph (check the "If u enable it, gets and splits sentences too" box).
-**Second Text Box:** Paste the text you want to compare. The software will automatically split sentences.
-**Remove Sentences:** Select sentences in the list and click "Remove Sentences."
-**Remove All:** Clears all text.
-**Confirm:** Click "Confirm" to start the comparison.
-**Copy All:** Copies the results to your clipboard.
-
+**Using the Software**  
+**First Text Box:** Add sentences one by one (click "Add") or paste a whole paragraph (check the "If u enable it, gets and splits sentences too" box).  
+**Second Text Box:** Paste the text you want to compare. The software will automatically split sentences.  
+**Remove Sentences:** Select sentences in the list and click "Remove Sentences."  
+**Remove All:** Clears all text.  
+**Confirm:** Click "Confirm" to start the comparison.  
+**Copy All:** Copies the results to your clipboard.  
+  
 We are continuously working on improving this tool, and your feedback is valuable!
