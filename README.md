@@ -1,5 +1,5 @@
 Hello! 
-This project is a product of a research unit at the University of Antwerp, as well as some brilliant external minds. \ 
+This project is a product of a research unit at the University of Antwerp, as well as some brilliant external minds.
 Essentially, this small, Embedding Model-based software helps you carry out textual cross-checking tasks with ease.\
 The Embedding Model we used in this software is called: text-embedding-ada-002\
 On this website, you can find more information: https://openai.com/blog/new-and-improved-embedding-model\
