@@ -17,7 +17,7 @@ This project is useful, for instance, in comparing two texts and quickly identif
 
 ## Setup Instructions
 
-1. **Install Python:** Ensure you have Python 3.9.0 installed on your computer. 
+1. **Install Python:** Ensure you have Python 3.9.0 installed on your computer. Also make sure to tick "Add Python 3.9.0 to PATH" during the installation process.
 2. **Get an OpenAI API Key:** Visit the OpenAI website to obtain your API key. Make sure that your account has enough credit.
 3. **Edit `similarityUtils.py`:**
     * Open the file `similarityUtils.py` in a text editor (VS Code, PyCharm, etc.).
@@ -56,7 +56,9 @@ This project is useful, for instance, in comparing two texts and quickly identif
 * tqdm              4.66.1
 * typing-extensions 4.9.0
 
-5. **Run the Software:** Open main.py and click "Run Python File." The software UI will appear.
+5. **Extract the ZIP:** After downloading the ZIP file from Github (Code > Download ZIP), extract it to a folder that you created specifically for these files.
+
+6. **Run the Software:** Start Visual Studio Code (downloaded seperately from Microsoft's website). Go to "File" then "Open Folder" and select the folder where you extracted the files. Open main.py and click "Run Python File." The software UI will appear.
 
 **Using the Software**  
 **First Text Box:** Add sentences one by one (click "Add") or paste a whole paragraph (check the "If u enable it, gets and splits sentences too" box).  
@@ -66,4 +68,4 @@ This project is useful, for instance, in comparing two texts and quickly identif
 **Confirm:** Click "Confirm" to start the comparison.  
 **Copy All:** Copies the results to your clipboard.  
   
-If you are interested in improving this tool, feel free to reach out! You can also make changes for your personal use.
+If you are interested in improving this tool or have questions, feel free to reach out! You can also make changes for your personal use.
