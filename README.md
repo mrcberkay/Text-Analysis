@@ -11,7 +11,7 @@ You can find more information on the OpenAI website: https://openai.com/blog/new
 
 ## Why Use This Project?
 
-This project is useful, for instance, in comparing two texts and quickly identifying the similarities between them. We used this tool to check whether the students who used ChatGPT plagiarized in their essays, and it was very helpful!
+This project is useful, for instance, in comparing two texts and quickly identifying the similarities between them. We used this tool to check whether the students who used ChatGPT copied & pasted AI generated content in their essays, and it was very helpful!
 
 **Please keep in mind that you will need an OpenAI API Key to use this software, and you will be charged per inquiry!**
 
